@@ -382,7 +382,7 @@ export function AboutUsPage() {
       name: 'JUN JAYME',
       title: 'SALES CONSULTANT',
       bio: 'Jun Jayme offers dedicated sales support and product expertise, helping clients navigate our comprehensive range of industrial piping solutions.',
-      image: ''
+      image: 'https://firebasestorage.googleapis.com/v0/b/eap-environmental.firebasestorage.app/o/Worldstar%20Hero%20Page%2FJun%20Jayme.png?alt=media&token=a87c6f8b-ad07-41b2-af79-3fd60b0e8323'
     },
     {
       name: 'RYAN MORADOS',
@@ -1233,4 +1233,5 @@ export function AboutUsPage() {
       </section>
     </div>
   );
+
 }
