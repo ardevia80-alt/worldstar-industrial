@@ -22,7 +22,7 @@ export function Hero() {
   ];
 
   const backgroundImages = [
-    'https://firebasestorage.googleapis.com/v0/b/eap-environmental.firebasestorage.app/o/Worldstar%20Hero%20Page%2FWorldstar%20home.png?alt=media&token=2aae4bf7-d7b3-43c8-b280-8d84bc572ae1',
+    'https://firebasestorage.googleapis.com/v0/b/eap-environmental.firebasestorage.app/o/Worldstar%20Hero%20Page%2FIndustrial%20pipe.png?alt=media&token=e76093eb-a496-4cac-9937-885a8c40a6d7',
     'https://firebasestorage.googleapis.com/v0/b/eap-environmental.firebasestorage.app/o/Worldstar%20Hero%20Page%2FXiamen%20Keheng%20Mfg.jpg?alt=media&token=2d2d8c68-72b4-4943-ac6a-99199057cfc0',
     'https://firebasestorage.googleapis.com/v0/b/eap-environmental.firebasestorage.app/o/Worldstar%20Hero%20Page%2FDiamante%20Group%20(2).png?alt=media&token=1267a8e6-9003-4b70-9aaa-ac14deba6b2d',
     'https://firebasestorage.googleapis.com/v0/b/eap-environmental.firebasestorage.app/o/Worldstar%20Hero%20Page%2FWF%20Valves.jpg?alt=media&token=e76a8aba-3690-48cf-90ca-b7c0fc041555',
